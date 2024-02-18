@@ -8,5 +8,5 @@ By Hadeed Khan
 <p>To run this code instantly, please visit the following links and click run</p>
 <h3>Tesla: </h3>
 <p>https://replit.com/@HadeedKhan3/Tesla-Car-lease-optimizer</p>
-<h3>Tesla: </h3>
+<h3>Rivian: </h3>
 <p>https://replit.com/@HadeedKhan3/Rivian-Car-lease-optimizer</p>
